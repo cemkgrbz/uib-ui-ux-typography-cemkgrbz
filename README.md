@@ -8,7 +8,7 @@ https://cemkgrbz.github.io/uib-ui-ux-typography-cemkgrbz/
 
 You'll find the content and it's outline in the content directory. The content is essentialy some short summaries and links to useful books/articles/websites about typography.
 
-### Objectives
+### Objectives 
 
 - Create a nav that has internal links to each of the sections on the page
 - Add the img in the img directory as a background image
